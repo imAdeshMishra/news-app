@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Newsly</string>
+
+    <string name="settings_country_label">Country</string>
+    <string name="settings_country_key" translatable="false">country</string>
+    <string name="settings_country_default" translatable="false">us</string>
+
+</resources>
